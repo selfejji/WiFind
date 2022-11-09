@@ -14,8 +14,8 @@ WiFind uses GPS location and a secured payment system to provide you a clean and
 
 Below are the concept and process views for the application
 
-![Concept View](WiFind/Teamm4-CP-design1.png?raw=true)
-![Process View](WiFind/Teamm4-CP-design2.png?raw=true)
+![Concept View](WiFind/images/Teamm4-CP-design1.png?raw=true)
+![Process View](WiFind/images/Teamm4-CP-design2.png?raw=true)
 
 ## Platforms 
 
