@@ -4,7 +4,7 @@ Have you ever desperately needed to connect to WiFi for that important meeting, 
 Well Wifind can provide you intenet instantaneously by searching for internet connections in your area and allowing you to purchase temporary WiFi from trusted sellers<br>
 WiFind uses GPS location and a secured payment system to provide you a clean and fast experience.
 
-** Visit a Section **
+**Visit a Section**
 
 - [The Structure of WiFind](#The-Structure-of-WiFind)
 - [Platforms](#Platforms)
@@ -19,7 +19,7 @@ Below are the concept and process views for the application
 
 ## Platforms 
 
-**Framework : Flutter **
+**Framework : Flutter**
 
 The framewwork we used for this application is **[Flutter](https://www.flutter.dev/)**.<br>
 Flutter allows us to have all of the packages we need for mobile app development nicely packed.<br>
