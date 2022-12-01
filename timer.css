@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background: #5DB075;
+    margin: 24px;
+  }
+  h1{
+    font-family: monospace;
+    color: white;
+  }
+  .demo {
+    display: none;
+ }
+  .timer {
+    width:350px;
+    font-family: sans-serif;
+    display: inline-block;
+    padding: 24px 32px;
+    border-radius: 30px;
+    background: white;
+  }
+  
+  .timer__part {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .timer__btn {
+    display: block;
+    width: 250px;
+    height: 50px;
+    margin-left: 60px;
+    color: #5DB075;
+    background: white;
+    cursor: pointer;
+    margin-bottom: 15px;
+    margin-top:30px;
+    border-color:#5DB075;
+  }
+  
+  .timer__btn--start {
+    background: white;
+  }
+  
+  .timer__btn--stop {
+    background: #5DB075;
+    color:white;
+    
+  }
+  input{
+    margin-top: 10px;
+    width: 250px;
+    height: 50px;
+    border-color:#5DB075;
+  }
+  .submit{
+    width:50px;
+  }
