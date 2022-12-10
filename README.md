@@ -38,7 +38,7 @@ In this database we will securely store user data and our products' data.
 ## Contributors
 - **[Sammy Elfejji](https://www.github.com/selfejji/)**, selfejji2@student.gsu.edu<br>
 - **[Jesse Cambron](https://www.github.com/jessecambron/)**, jcambron3@student.gsu.edu<br>
-- 
+- **[Jay Bonardy](https://www.github.com/JayBTwoSeven/)**, jbonardy1@student.gsu.edu<br>
 - 
 
 
