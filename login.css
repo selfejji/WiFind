@@ -1,0 +1,30 @@
+body{
+    max-width: 500px;
+    margin-left: 600px;
+    margin-top: 150px;
+    font-family: arial;
+    background-color: #5DB075;
+    color: white;
+}
+input{
+    width: 250px;
+    height: 25px;
+    margin-bottom:5px;
+    border-radius: 5px;
+    text-align: center;
+}
+h1{
+    margin-left: 75px;
+}
+img{
+    width: 250px;
+    margin-top:0px;
+    padding-left: 0px;
+}
+button{
+    width: 257px;
+    margin-bottom:5px;
+}
+.submit{
+    width:260px;
+}
